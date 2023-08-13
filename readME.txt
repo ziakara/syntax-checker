@@ -1,4 +1,4 @@
-README: by Zia Kara
+readME: by Zia Kara
 ____________________
 
 This was a fun project where I had to implement a stack using the MyStackInterface. 
